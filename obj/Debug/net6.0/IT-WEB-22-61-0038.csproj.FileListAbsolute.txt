@@ -1,0 +1,93 @@
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\bin\Debug\net6.0\appsettings.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.staticwebassets.runtime.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.exe
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.deps.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.runtimeconfig.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.dll
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.pdb
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.csproj.AssemblyReference.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.AssemblyInfoInputs.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.AssemblyInfo.cs
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.csproj.CoreCompileInputs.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.RazorAssemblyInfo.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.RazorAssemblyInfo.cs
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets\msbuild.IT-WEB-22-61-0038.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets\msbuild.build.IT-WEB-22-61-0038.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IT-WEB-22-61-0038.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IT-WEB-22-61-0038.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\scopedcss\bundle\IT-WEB-22-61-0038.styles.css
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\scopedcss\projectbundle\IT-WEB-22-61-0038.bundle.scp.css
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.dll
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\refint\IT-WEB-22-61-0038.dll
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.pdb
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.genruntimeconfig.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\IT-WEB-22-61-0038\obj\Debug\net6.0\ref\IT-WEB-22-61-0038.dll
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\bin\Debug\net6.0\appsettings.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.staticwebassets.runtime.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.exe
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.deps.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.runtimeconfig.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.dll
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\bin\Debug\net6.0\IT-WEB-22-61-0038.pdb
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.csproj.AssemblyReference.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.AssemblyInfoInputs.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.AssemblyInfo.cs
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.csproj.CoreCompileInputs.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.RazorAssemblyInfo.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.RazorAssemblyInfo.cs
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets\msbuild.IT-WEB-22-61-0038.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets\msbuild.build.IT-WEB-22-61-0038.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IT-WEB-22-61-0038.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IT-WEB-22-61-0038.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\scopedcss\bundle\IT-WEB-22-61-0038.styles.css
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\scopedcss\projectbundle\IT-WEB-22-61-0038.bundle.scp.css
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.dll
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\refint\IT-WEB-22-61-0038.dll
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.pdb
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\IT-WEB-22-61-0038.genruntimeconfig.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\IT-WEB-22-61-0038\obj\Debug\net6.0\ref\IT-WEB-22-61-0038.dll
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\bin\Debug\net6.0\appsettings.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\bin\Debug\net6.0\IT-WEB-22-61-0038.staticwebassets.runtime.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\bin\Debug\net6.0\IT-WEB-22-61-0038.exe
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\bin\Debug\net6.0\IT-WEB-22-61-0038.deps.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\bin\Debug\net6.0\IT-WEB-22-61-0038.runtimeconfig.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\bin\Debug\net6.0\IT-WEB-22-61-0038.dll
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\bin\Debug\net6.0\IT-WEB-22-61-0038.pdb
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\IT-WEB-22-61-0038.csproj.AssemblyReference.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\IT-WEB-22-61-0038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\IT-WEB-22-61-0038.AssemblyInfoInputs.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\IT-WEB-22-61-0038.AssemblyInfo.cs
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\IT-WEB-22-61-0038.csproj.CoreCompileInputs.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\IT-WEB-22-61-0038.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\IT-WEB-22-61-0038.RazorAssemblyInfo.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\IT-WEB-22-61-0038.RazorAssemblyInfo.cs
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\staticwebassets\msbuild.IT-WEB-22-61-0038.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\staticwebassets\msbuild.build.IT-WEB-22-61-0038.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IT-WEB-22-61-0038.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IT-WEB-22-61-0038.props
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\scopedcss\bundle\IT-WEB-22-61-0038.styles.css
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\scopedcss\projectbundle\IT-WEB-22-61-0038.bundle.scp.css
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\IT-WEB-22-61-0038.dll
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\refint\IT-WEB-22-61-0038.dll
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\IT-WEB-22-61-0038.pdb
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\IT-WEB-22-61-0038.genruntimeconfig.cache
+C:\Users\rtrra\Desktop\IT-WEB-22-61- 0038 - Patabandi Koralalage Ravindu Theja Rupasinghe\Q2\Razor Page\obj\Debug\net6.0\ref\IT-WEB-22-61-0038.dll
